@@ -1,0 +1,6 @@
+#This is gitignore
+secret.txt
+
+# use wildcards so like seclecting all files with .txt
+# example: *.txt
+# example: *.log
